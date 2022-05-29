@@ -1,0 +1,22 @@
+body{
+    background-color: #5555f4;
+}
+
+div{
+    display: flex;
+    align-items: center;
+}
+
+.resposta {
+    display: flex;
+    align-items: center;
+  
+}
+
+.verde {
+    color: #07ea8b;
+}
+
+.yellow{
+    color: #d0ff00
+}
